@@ -24,8 +24,8 @@ Ela permite inserir números e operações básicas diretamente em um teclado cu
 
 ## 📸 Preview
 <p align="center">
-  <img src="https://github.com/seu-usuario/Calculadora_Moderna/blob/master/prints/1.png" alt="Tela 1" width="30%">
-  <img src="https://github.com/seu-usuario/Calculadora_Moderna/blob/master/prints/2.png" alt="Tela 2" width="30%">
+  <img src="https://github.com/MarcellCosta31/Calculadora_Moderna/blob/master/prints/1.png" alt="Tela 1" width="30%">
+  <img src="https://github.com/MarcellCosta31/Calculadora_Moderna/blob/master/prints/2.png" alt="Tela 2" width="30%">
 </p>
 
 ---
