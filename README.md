@@ -38,6 +38,3 @@ Ela permite inserir números e operações básicas diretamente em um teclado cu
    cd Calculadora_Moderna
    npm install
    expo start
-
-
-
